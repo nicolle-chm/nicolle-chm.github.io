@@ -3,7 +3,7 @@ main:
   - title: "Curriculum Vitae"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Portfolio"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /portfolio/
   - title: "Publications"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
