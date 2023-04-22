@@ -8,5 +8,4 @@ redirect_from:
   - /home.html
 ---
 
-About me
-======
+## About me
