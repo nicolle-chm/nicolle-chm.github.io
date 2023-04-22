@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Curriculum Vitae"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /curriculum-vitae/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Publications"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /publications/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
