@@ -110,9 +110,6 @@ author:
   location         : "London, United Kingdom"
   email            : "martina.torce@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ymartina.torce@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://martina-torce.github.io"
@@ -127,9 +124,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/martina-torce"
+    - label: # "GitHub"
+      icon: # "fab fa-fw fa-github"
+      url: #
 
 
 
