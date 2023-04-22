@@ -5,4 +5,3 @@ permalink: /curriculum-vitae/
 author_profile: true
 ---
 
-C
