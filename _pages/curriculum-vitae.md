@@ -3,9 +3,7 @@ layout: single
 title: "Curriculum Vitae"
 permalink: /curriculum-vitae/
 author_profile: true
-toc: true
-toc_label: "Table of Contents"
-toc_sticky: true
+classes: wide
 ---
 
 ## Profile
