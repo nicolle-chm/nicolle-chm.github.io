@@ -171,19 +171,16 @@ hr {
 
 /* lists */
 
-ul,
-ol {
-  margin-top: 0;
-}
-
 ul li,
 ol li {
-  margin-bottom: 0em; /* ADJUST */
+  margin-top: 0;
+  margin-bottom: 0; /* ADJUST */
 }
 
 li ul,
 li ol {
-  margin-top: 0em; /* ADJUST */
+  margin-top: 0; /* ADJUST */
+  margin-bottom: 0;
 }
 
 /*
