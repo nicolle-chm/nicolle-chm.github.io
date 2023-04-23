@@ -6,10 +6,10 @@ author_profile: true
 classes: wide
 ---
 
-# Profile
+## Profile
 An enterprising student looking to translate a blend of analytical and interpersonal skills acquired through a technical Engineering degree into using technology to solve business problems within the financial sector. 
 
-# Education 
+## Education 
 **Imperial College London  
 Master of Engineering – MEng, Biomolecular Engineering**  
 *London, United Kingdom  
