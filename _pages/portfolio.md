@@ -8,4 +8,3 @@ entries_layout: grid
 classes: wide
 ---
 
-## Data Analytics
