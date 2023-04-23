@@ -11,7 +11,7 @@ toc_icon: "cog"
 # Profile
 An enterprising student looking to translate a blend of analytical and interpersonal skills acquired through a technical Engineering degree into using technology to solve business problems within the financial sector. 
 
-## Education 
+# Education 
 Imperial College London London, United Kingdom
 Master of Engineering – MEng, Biomolecular Engineering
 Oct 2020 – Jun 2024
@@ -27,7 +27,7 @@ International GCSEs
 Oct 2017 - Jun 2018 
 * 7A*A including Mathematics, Physics & English Language (A*). Results achieved in one year of study instead of two. 
 
-## Experience 
+# Experience 
 The Institute of Cancer Research 
 London, United Kingdom 
 Machine Learning Research Intern, Computational Imaging Team (Full-Time) 
@@ -75,7 +75,7 @@ Feb 2022
 * Built a bot on Cisco’s platform WebEx for event planning written in node.js, using WebEx bot SDK 
 * Provides API server for registering to, creating and listing events, written in Python using Flask 
 
-## Extra-Curricular
+# Extra-Curricular
 Imperial College Investment Society 
 London, United Kingdom 
 Incoming Senior Analyst, Systematic Division at QT Capital Ltd. 
@@ -130,7 +130,7 @@ Oct 2020 – June 2021
 * Resulted in increased cohort satisfaction of 21% according to two anonymous surveys after one school year. 
 * Gained negotiation and professional communication skills by implementing student-faculty points of contact. 
 
-## Skills & Interests 
+# Skills & Interests 
 Languages: Python (Advanced); MATLAB, C++, R, MySQL, TeX (Intermediate)
 
 Packages: NumPy, SciPy, Pandas, Matplotlib, SimpleITK, PyTorch, Keras, Scikit-learn, MONAI (Python)
