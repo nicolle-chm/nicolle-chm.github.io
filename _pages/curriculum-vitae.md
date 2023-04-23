@@ -126,7 +126,7 @@ Oct 2020 – June 2021
 * Gained negotiation and professional communication skills by implementing student-faculty points of contact. 
 
 ## Skills & Interests 
-*Languages:* Python (Advanced); MATLAB, C++, R, MySQL, TeX (Intermediate)  
-*Packages:* NumPy, SciPy, Pandas, Matplotlib, SimpleITK, PyTorch, Keras, Scikit-learn, MONAI (Python)  
-*Tools:* Git, Visual Studio Code, Microsoft Excel, PowerPoint, Power BI (Advanced); Tableau (Intermediate) VSCode  
-*Interests:* Developer (available on GitHub)  
+**Languages:** Python (Advanced); MATLAB, C++, R, MySQL, TeX (Intermediate)  
+**Packages:** NumPy, SciPy, Pandas, Matplotlib, SimpleITK, PyTorch, Keras, Scikit-learn, MONAI (Python)  
+**Tools:** Git, Visual Studio Code, Microsoft Excel, PowerPoint, Power BI (Advanced); Tableau (Intermediate) VSCode  
+**Interests:** Developer (available on GitHub)  
