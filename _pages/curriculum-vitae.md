@@ -116,15 +116,22 @@ Jun 2021 – Jun 2022
 * Worked with companies such as Accenture, Oliver Wyman, Oxbow Partners, High Bridge Academy
 
 Imperial College Union 
+
 London, United Kingdom 
+
 Cohort Academic Representative 
+
 Oct 2020 – June 2021 
+
 * Elected to represent student cohort within the Department of Bioengineering by attending regular meetings. 
 * Resulted in increased cohort satisfaction of 21% according to two anonymous surveys after one school year. 
 * Gained negotiation and professional communication skills by implementing student-faculty points of contact. 
 
 ## Skills & Interests 
 Languages: Python (Advanced); MATLAB, C++, R, MySQL, TeX (Intermediate)
+
 Packages: NumPy, SciPy, Pandas, Matplotlib, SimpleITK, PyTorch, Keras, Scikit-learn, MONAI (Python)
+
 Tools: Git, Visual Studio Code, Microsoft Excel, PowerPoint, Power BI (Advanced); Tableau (Intermediate) VSCode
+
 Interests: Developer (available on GitHub) 
