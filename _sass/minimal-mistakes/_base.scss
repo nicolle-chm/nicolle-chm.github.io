@@ -171,6 +171,11 @@ hr {
 
 /* lists */
 
+ul,
+ol {
+  margin-top: 0;
+}
+
 ul li,
 ol li {
   margin-bottom: 0em; /* ADJUST */
