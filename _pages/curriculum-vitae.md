@@ -24,7 +24,7 @@ Oct 2018 – Jun 2020*
 
 **International GCSEs**  
 *Oct 2017 - Jun 2018*  
-* 7A*A including Mathematics, Physics & English Language (A*). Results achieved in one year of study instead of two. 
+* 7A\*A including Mathematics, Physics & English Language (A\*). Results achieved in one year of study instead of two. 
 
 ## Experience 
 **The Institute of Cancer Research  
