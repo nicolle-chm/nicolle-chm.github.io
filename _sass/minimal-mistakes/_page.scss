@@ -98,7 +98,7 @@ body {
 			position: relative;
 			left: 0.5em;
 			opacity: 0;
-			font-size: 0.5em; /* ADJUST */
+			font-size: 0.8em;
 			-webkit-transition: opacity 0.2s ease-in-out 0.1s;
 			-moz-transition: opacity 0.2s ease-in-out 0.1s;
 			-o-transition: opacity 0.2s ease-in-out 0.1s;
@@ -113,12 +113,7 @@ body {
   p,
   li,
   dl {
-    font-size: 0.825em; /* ADJUST */
-  }
-	
-  li {
-    margin-top: 0em; /* ADJUST */
-    margin-bottom: 0em; /* ADJUST */
+    font-size: 1em;
   }
 
   /* paragraph indents */
