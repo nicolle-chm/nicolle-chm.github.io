@@ -13,7 +13,8 @@ An enterprising student looking to translate a blend of analytical and interpers
 **Imperial College London  
 Master of Engineering – MEng, Biomolecular Engineering**  
 *London, United Kingdom  
-Oct 2020 – Jun 2024*  * Upper Second Class Hons. including Engineering Mathematics, MATLAB and Python Programming (First Class Hons.).
+Oct 2020 – Jun 2024*
+* Upper Second Class Hons. including Engineering Mathematics, MATLAB and Python Programming (First Class Hons.).
 
 **St. George’s British International School  
 International Baccalaureate (IB) Diploma**  
