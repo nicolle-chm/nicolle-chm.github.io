@@ -12,7 +12,7 @@ toc_sticky: true
 An enterprising student looking to translate a blend of analytical and interpersonal skills acquired through a technical Engineering degree into using technology to solve business problems within the financial sector. 
 
 ## Education 
-Imperial College London London, United Kingdom
+Imperial College London London, United Kingdom  
 Master of Engineering – MEng, Biomolecular Engineering
 Oct 2020 – Jun 2024
 * Upper Second Class Hons. including Engineering Mathematics, MATLAB and Python Programming (First Class Hons.). 
@@ -118,14 +118,10 @@ Jun 2021 – Jun 2022
 * In charge of gathering analytics after events and performing statistical data analysis on the results 
 * Worked with companies such as Accenture, Oliver Wyman, Oxbow Partners, High Bridge Academy
 
-Imperial College Union 
-
-London, United Kingdom 
-
-Cohort Academic Representative 
-
-Oct 2020 – June 2021 
-
+Imperial College Union  
+London, United Kingdom  
+Cohort Academic Representative  
+Oct 2020 – June 2021  
 * Elected to represent student cohort within the Department of Bioengineering by attending regular meetings. 
 * Resulted in increased cohort satisfaction of 21% according to two anonymous surveys after one school year. 
 * Gained negotiation and professional communication skills by implementing student-faculty points of contact. 
