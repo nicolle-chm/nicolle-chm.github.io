@@ -10,26 +10,26 @@ classes: wide
 An enterprising student looking to translate a blend of analytical and interpersonal skills acquired through a technical Engineering degree into using technology to solve business problems within the financial sector. 
 
 ## Education 
-Imperial College London  
-Master of Engineering – MEng, Biomolecular Engineering  
-London, United Kingdom  
+**Imperial College London  
+Master of Engineering – MEng, Biomolecular Engineering**  
+*London, United Kingdom  
 Oct 2020 – Jun 2024  
 * Upper Second Class Hons. including Engineering Mathematics, MATLAB and Python Programming (First Class Hons.). 
 
-St. George’s British International School  
-International Baccalaureate (IB) Diploma  
-Rome, Italy  
+**St. George’s British International School  
+International Baccalaureate (IB) Diploma**  
+*Rome, Italy  
 Oct 2018 – Jun 2020  
 * Grade 44/45 (top 1% worldwide) including Higher Level Mathematics 7/7 with Advanced Calculus, Statistics & Probability. 
 
-International GCSEs  
-Oct 2017 - Jun 2018  
+**International GCSEs**  
+*Oct 2017 - Jun 2018  
 * 7A*A including Mathematics, Physics & English Language (A*). Results achieved in one year of study instead of two. 
 
 ## Experience 
-The Institute of Cancer Research  
-Machine Learning Research Intern, Computational Imaging Team (Full-Time)  
-London, United Kingdom  
+**The Institute of Cancer Research  
+Machine Learning Research Intern, Computational Imaging Team (Full-Time)**  
+*London, United Kingdom  
 Jun – Aug 2022  
 * Built a deep learning model to delineate the skeleton in Diffusion-Weighted MRI images, achieving a consistent Dice Score of 0.75 against professionally-delineated labels, using U-Net architecture and specialist framework MONAI. 
 * Submission and acceptance of research abstract to International Society for Magnetic Resonance in Medicine (ISMRM).
