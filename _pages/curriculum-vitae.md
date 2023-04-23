@@ -8,7 +8,6 @@ toc_label: "Table of Contents"
 toc_sticky: true
 ---
 
-#
 ## Profile
 An enterprising student looking to translate a blend of analytical and interpersonal skills acquired through a technical Engineering degree into using technology to solve business problems within the financial sector. 
 
