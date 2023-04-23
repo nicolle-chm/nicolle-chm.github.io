@@ -107,12 +107,9 @@ author:
   name             : "Martina Torcè"
   avatar           : "/assets/images/my-photo.jpg"
   bio              : "Student at Imperial College London"
-  location         : #
+  location         : "London, United Kingdom"
   email            : "martina.torce@gmail.com"
   links:
-    - label: "London, United Kingdom"
-      icon: "fas fa-fw fa-location"
-      url: # 
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://martina-torce.github.io"
