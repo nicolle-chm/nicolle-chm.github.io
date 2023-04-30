@@ -1,7 +1,7 @@
 ---
-title: Portfolio
 layout: collection
+title: Portfolio
 permalink: /portfolio/
-collection: portfolio
 author_profile: true
+collection: portfolio
 ---
