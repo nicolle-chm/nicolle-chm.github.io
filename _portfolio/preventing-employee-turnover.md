@@ -1,7 +1,6 @@
 ---
 title: "Preventing Turnover of High-Performing Employees"
 excerpt: "This analysis consists of recommendations for a large company which is experiencing a high turnover rate and is specifically interested in retaining high-performing employees."
-classes: wide
 collection: portfolio
 ---
 

@@ -3,7 +3,6 @@ layout: single
 title: "Curriculum Vitae"
 permalink: /curriculum-vitae/
 author_profile: true
-classes: wide
 ---
 
 ## Profile
