@@ -72,6 +72,14 @@ body {
   margin-top: 0;
   line-height: 1;
 
+  /* Adj */
+  h1 {
+    font-size: 26px;
+    margin: 0;
+    padding: 0;
+  }
+  /* */
+	
   a {
     color: $text-color;
     text-decoration: none;
