@@ -18,19 +18,26 @@ An enterprising student looking to translate a blend of analytical and interpers
 
 <p> 
   <span style="float:left;font-weight:bold;"> St. George’s British International School </span> <span style="float:right;font-style:italic;"> Rome, Italy </span> <br>  
-  <span style="float:left;font-weight:bold;"> International Baccalaureate (IB) Diploma </span> <span style="float:right;font-style:italic;"> Oct 2018 – Jun 2020 </span> <br>
+  <span style="float:left;font-weight:bold;"> Diploma, International Baccalaureate (IB) </span> <span style="float:right;font-style:italic;"> Oct 2018 – Jun 2020 </span> <br>
 </p>
 
 * Grade 44/45 (top 1% worldwide) including Higher Level Mathematics 7/7 with Advanced Calculus, Statistics & Probability. 
 
 <p> 
-  <span style="float:left;font-weight:bold;"> International GCSE </span> <span style="float:right;font-style:italic;"> Oct 2017 - Jun 2018 </span> <br>  
+  <span style="float:left;font-weight:bold;"> International GCSEs </span> <span style="float:right;font-style:italic;"> Oct 2017 - Jun 2018 </span> <br>  
 </p>
 
 * 7A\*A including Mathematics, Physics & English Language (A\*). Results achieved in one year of study instead of two. 
 
 
 ## Experience 
+<p> 
+  <span style="float:left;font-weight:bold;"> Manning's Tutors Ltd. </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Student Tutor (Full-Time) </span> <span style="float:right;font-style:italic;"> Oct 2022 – Present </span> <br>
+</p>
+
+* Tutoring GCSE and A-Level students in Mathematics, Chemistry and Biology.
+
 <p> 
   <span style="float:left;font-weight:bold;"> The Institute of Cancer Research </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
   <span style="float:left;font-weight:bold;"> Machine Learning Research Intern, Computational Imaging Team (Full-Time) </span> <span style="float:right;font-style:italic;"> Jun – Aug 2022 </span> <br>
@@ -117,13 +124,12 @@ An enterprising student looking to translate a blend of analytical and interpers
 * Excelled in additional module Equity Options (81%) including a successful trading simulation. 
 
 <p> 
-  <span style="float:left;font-weight:bold;"> Imperial Entrepreneurs Society </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
-  <span style="float:left;font-weight:bold;"> Marketing Officer </span> <span style="float:right;font-style:italic;"> Oct 2021 – Jun 2022 </span> <br>
+  <span style="float:left;font-weight:bold;"> Imperial Bioscience Review </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Contributing Writer and Illustrator </span> <span style="float:right;font-style:italic;"> May 2021 – May 2022 </span> <br>
 </p>
 
-* In charge of promoting events from top Tech, FinTech companies to Imperial College students 
-* Worked with companies such as PolyAI, Gingko Bioworks, 11:FS, OakNorth Bank 
-* Increased student engagement by ~65% compared to the previous year 
+* Writing monthly articles in the fields of Pharmaceuticals and Biotechnology
+* Part of the Design Team, creating digital illustrations for the articles
 
 <p> 
   <span style="float:left;font-weight:bold;"> Imperial College Consultancy Society </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
@@ -133,6 +139,29 @@ An enterprising student looking to translate a blend of analytical and interpers
 * In charge of communication between sponsoring companies and our ~900 members as well as internal communication within the committee 
 * In charge of gathering analytics after events and performing statistical data analysis on the results 
 * Worked with companies such as Accenture, Oliver Wyman, Oxbow Partners, High Bridge Academy
+
+<p> 
+  <span style="float:left;font-weight:bold;"> Imperial Entrepreneurs Society </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Marketing Officer </span> <span style="float:right;font-style:italic;"> Oct 2021 – Jun 2022 </span> <br>
+</p>
+
+* In charge of promoting events from top Tech, FinTech companies to Imperial College students 
+* Worked with companies such as PolyAI, Gingko Bioworks, 11:FS, OakNorth Bank 
+* Increased student engagement by ~65% compared to the previous year 
+
+<p> 
+  <span style="float:left;font-weight:bold;"> Imperial College Women in Business Society </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Internal/Alumni Manager </span> <span style="float:right;font-style:italic;"> Oct 2021 – Mar 2022 </span> <br>
+</p>
+
+* rr
+
+<p> 
+  <span style="float:left;font-weight:bold;"> The Radius </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Contributing Writer </span> <span style="float:right;font-style:italic;"> May 2021 – Oct 2021 </span> <br>
+</p>
+
+* Writing monthly articles in the fields of Business & Economics.
 
 <p> 
   <span style="float:left;font-weight:bold;"> Imperial College Student Union </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
