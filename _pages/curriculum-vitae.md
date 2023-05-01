@@ -10,36 +10,41 @@ An enterprising student looking to translate a blend of analytical and interpers
 
 ## Education 
 <p> 
-  <span style="float:left;font-weight:bold;"> Imperial College London </span> <span style="float:right;font-weight:italic;"> London, United Kingdom </span> <br>  
-  <span style="float:left;font-weight:bold;"> Master of Engineering – MEng, Biomolecular Engineering </span> <span style="float:right;font-weight:italic;"> Oct 2020 – Jun 2024 </span> <br>
+  <span style="float:left;font-weight:bold;"> Imperial College London </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Master of Engineering – MEng, Biomolecular Engineering </span> <span style="float:right;font-style:italic;"> Oct 2020 – Jun 2024 </span> <br>
 </p>
 
 * Upper Second Class Hons. including Engineering Mathematics, MATLAB and Python Programming (First Class Hons.).
 
 <p> 
-  <span style="float:left;font-weight:bold;"> St. George’s British International School </span> <span style="float:right;font-weight:italic;"> Rome, Italy </span> <br>  
-  <span style="float:left;font-weight:bold;"> International Baccalaureate (IB) Diploma </span> <span style="float:right;font-weight:italic;"> Oct 2018 – Jun 2020 </span> <br>
+  <span style="float:left;font-weight:bold;"> St. George’s British International School </span> <span style="float:right;font-style:italic;"> Rome, Italy </span> <br>  
+  <span style="float:left;font-weight:bold;"> International Baccalaureate (IB) Diploma </span> <span style="float:right;font-style:italic;"> Oct 2018 – Jun 2020 </span> <br>
 </p>
 
 * Grade 44/45 (top 1% worldwide) including Higher Level Mathematics 7/7 with Advanced Calculus, Statistics & Probability. 
 
-**International GCSEs**  
-*Oct 2017 - Jun 2018*  
+<p> 
+  <span style="float:left;font-weight:bold;"> International GCSE </span> <span style="float:right;font-style:italic;"> Oct 2017 - Jun 2018 </span> <br>  
+</p>
+
 * 7A\*A including Mathematics, Physics & English Language (A\*). Results achieved in one year of study instead of two. 
 
+
 ## Experience 
-**The Institute of Cancer Research  
-Machine Learning Research Intern, Computational Imaging Team (Full-Time)**  
-*London, United Kingdom  
-Jun – Aug 2022*  
+<p> 
+  <span style="float:left;font-weight:bold;"> The Institute of Cancer Research </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Machine Learning Research Intern, Computational Imaging Team (Full-Time) </span> <span style="float:right;font-style:italic;"> Jun – Aug 2022 </span> <br>
+</p>
+
 * Built a deep learning model to delineate the skeleton in Diffusion-Weighted MRI images, achieving a consistent Dice Score of 0.75 against professionally-delineated labels, using U-Net architecture and specialist framework MONAI. 
 * Submission and acceptance of research abstract to International Society for Magnetic Resonance in Medicine (ISMRM).
 * Experienced single-handedly carrying out a project in a structured manner within a short timeframe. 
 
-**Optiver  
-Spring Insight Programme, Technology Division**  
-*Remote  
-Apr 2022*  
+<p> 
+  <span style="float:left;font-weight:bold;"> Optiver </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
+  <span style="float:left;font-weight:bold;"> Spring Insight Programme, Technology Division </span> <span style="float:right;font-style:italic;"> Apr 2022 </span> <br>
+</p>
+
 * Selected within 0.7% out of 1000+ applicants, built an algorithm on Optiver’s own virtual exchange Optibook to trade a dual-listed security using an arbitrage strategy while simultaneously improving market liquidity. 
 * Received in-depth training sessions from industry leaders in market-making, systems and infrastructures. 
 * Practiced working in a team with different backgrounds (trading and tech) and extracting its full potential. 
