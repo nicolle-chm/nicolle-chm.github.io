@@ -39,6 +39,13 @@ An enterprising student looking to translate a blend of analytical and interpers
 * Tutoring GCSE and A-Level students in Mathematics, Chemistry and Biology.
 
 <p> 
+  <span style="float:left;font-weight:bold;"> Covalent HQ </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
+  <span style="float:left;font-weight:bold;"> Bootcamp, Data Analchemist </span> <span style="float:right;font-style:italic;"> Oct 2022 - Nov 2022 </span> <br>
+</p>
+
+* Industry-level training in Blockchain Data Analytics.
+
+<p> 
   <span style="float:left;font-weight:bold;"> The Institute of Cancer Research </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
   <span style="float:left;font-weight:bold;"> Machine Learning Research Intern, Computational Imaging Team (Full-Time) </span> <span style="float:right;font-style:italic;"> Jun – Aug 2022 </span> <br>
 </p>
@@ -76,8 +83,15 @@ An enterprising student looking to translate a blend of analytical and interpers
 
 ## Extra-Curricular
 <p> 
+  <span style="float:left;font-weight:bold;"> Imperial Blockchain Group </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Data Analyst </span> <span style="float:right;font-style:italic;"> Oct 2022 - Jun 2022 </span> <br>
+</p>
+
+* Querying blockchain data using SQL and data visualisation with Python.
+
+<p> 
   <span style="float:left;font-weight:bold;"> Imperial College Investment Society </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
-  <span style="float:left;font-weight:bold;"> Senior Analyst, Systematic Division at QT Capital Ltd. </span> <span style="float:right;font-style:italic;"> Oct 2022 – Oct 2023 </span> <br>
+  <span style="float:left;font-weight:bold;"> Senior Analyst, Systematic Division at QT Capital Ltd. </span> <span style="float:right;font-style:italic;"> Oct 2022 – Jun 2023 </span> <br>
 </p>
 
 * Elected to lead a team of 10+ to submit weekly pitches and contribute in management of £7000+ portfolio.
@@ -155,7 +169,7 @@ An enterprising student looking to translate a blend of analytical and interpers
   <span style="float:left;font-weight:bold;"> Internal/Alumni Manager </span> <span style="float:right;font-style:italic;"> Oct 2021 – Mar 2022 </span> <br>
 </p>
 
-* rr
+* Managing communications between 800+ society members.
 
 <p> 
   <span style="float:left;font-weight:bold;"> The Radius </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
