@@ -20,6 +20,7 @@ An enterprising student looking to translate a blend of analytical and interpers
 International Baccalaureate (IB) Diploma**  
 *Rome, Italy  
 Oct 2018 – Jun 2020*  
+
 * Grade 44/45 (top 1% worldwide) including Higher Level Mathematics 7/7 with Advanced Calculus, Statistics & Probability. 
 
 **International GCSEs**  
