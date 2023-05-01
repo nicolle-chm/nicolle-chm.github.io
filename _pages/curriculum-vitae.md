@@ -29,11 +29,10 @@ Grade 44/45 (top 1% worldwide) including Higher Level Mathematics 7/7 with Advan
 
 7A\*A including Mathematics, Physics & English Language (A\*). Results achieved in one year of study instead of two. 
 
-
 ## Work Experience 
 <p> 
   <span style="float:left;font-weight:bold;"> Manning's Tutors Ltd. </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
-  <span style="float:left;font-weight:bold;"> Student Tutor (Full-Time) </span> <span style="float:right;font-style:italic;"> Oct 2022 – Present </span> <br>
+  <span style="float:left;font-weight:bold;"> Student Tutor </span> <span style="float:right;font-style:italic;"> Oct 2022 – Present </span> <br>
 </p>
 
 * Tutoring GCSE and A-Level students in Mathematics, Chemistry and Biology.
@@ -47,7 +46,7 @@ Grade 44/45 (top 1% worldwide) including Higher Level Mathematics 7/7 with Advan
 
 <p> 
   <span style="float:left;font-weight:bold;"> The Institute of Cancer Research </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
-  <span style="float:left;font-weight:bold;"> Machine Learning Research Intern, Computational Imaging Team (Full-Time) </span> <span style="float:right;font-style:italic;"> Jun – Aug 2022 </span> <br>
+  <span style="float:left;font-weight:bold;"> Machine Learning Research Intern, Computational Imaging Team </span> <span style="float:right;font-style:italic;"> Jun – Aug 2022 </span> <br>
 </p>
 
 * Built a deep learning model to delineate the skeleton in Diffusion-Weighted MRI images, achieving a consistent Dice Score of 0.75 against professionally-delineated labels, using U-Net architecture and specialist framework MONAI. 
