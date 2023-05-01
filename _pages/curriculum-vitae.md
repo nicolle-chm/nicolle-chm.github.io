@@ -16,10 +16,10 @@ An enterprising student looking to translate a blend of analytical and interpers
 
 * Upper Second Class Hons. including Engineering Mathematics, MATLAB and Python Programming (First Class Hons.).
 
-**St. George’s British International School  
-International Baccalaureate (IB) Diploma**  
-*Rome, Italy  
-Oct 2018 – Jun 2020*  
+<p> 
+  <span style="float:left;font-weight:bold;"> St. George’s British International School </span> <span style="float:right;font-weight:italic;"> Rome, Italy </span> <br>  
+  <span style="float:left;font-weight:bold;"> International Baccalaureate (IB) Diploma </span> <span style="float:right;font-weight:italic;"> Oct 2018 – Jun 2020 </span> <br>
+</p>
 
 * Grade 44/45 (top 1% worldwide) including Higher Level Mathematics 7/7 with Advanced Calculus, Statistics & Probability. 
 
