@@ -30,7 +30,7 @@ An enterprising student looking to translate a blend of analytical and interpers
 * 7A\*A including Mathematics, Physics & English Language (A\*). Results achieved in one year of study instead of two. 
 
 
-## Experience 
+## Work Experience 
 <p> 
   <span style="float:left;font-weight:bold;"> Manning's Tutors Ltd. </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
   <span style="float:left;font-weight:bold;"> Student Tutor (Full-Time) </span> <span style="float:right;font-style:italic;"> Oct 2022 – Present </span> <br>
@@ -57,6 +57,15 @@ An enterprising student looking to translate a blend of analytical and interpers
 * Practiced working in a team with different backgrounds (trading and tech) and extracting its full potential. 
 
 <p> 
+  <span style="float:left;font-weight:bold;"> KPMG </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
+  <span style="float:left;font-weight:bold;"> Work Experience, Data Analytics Consulting </span> <span style="float:right;font-style:italic;"> Feb 2022 </span> <br>
+</p>
+
+* Helped company to produce better business outcome through optimisation and analysis of customer data.
+* Presented research to Analytics, Information & Modelling team using Microsoft Excel and Power BI for dashboards.
+* Targeted valuable customers based on customer demographics and attributes (Customer Segmentation) 
+
+<p> 
   <span style="float:left;font-weight:bold;"> J.P. Morgan Chase </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
   <span style="float:left;font-weight:bold;"> Work Experience, Software Engineering </span> <span style="float:right;font-style:italic;"> Jun 2020 </span> <br>
 </p>
@@ -65,14 +74,38 @@ An enterprising student looking to translate a blend of analytical and interpers
 * Developed a client-side application synced to a server application containing stock price data, conducted unit testing. 
 * Gained experience in Data Analysis and translating algorithms into code in Python.
 
+## Extra-Curricular
 <p> 
-  <span style="float:left;font-weight:bold;"> KPMG </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
-  <span style="float:left;font-weight:bold;"> Work Experience, Data Analytics Consulting </span> <span style="float:right;font-style:italic;"> Feb 2022 </span> <br>
+  <span style="float:left;font-weight:bold;"> Imperial College Investment Society </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Senior Analyst, Systematic Division at QT Capital Ltd. </span> <span style="float:right;font-style:italic;"> Oct 2022 – Oct 2023 </span> <br>
 </p>
 
-* Helped company to produce better business outcome through optimisation and analysis of customer data.
-* Presented research to Analytics, Information & Modelling team using Microsoft Excel and Power BI for dashboards.
-* Targeted valuable customers based on customer demographics and attributes (Customer Segmentation) 
+* Elected to lead a team of 10+ to submit weekly pitches and contribute in management of £7000+ portfolio.
+* Will oversee posting weekly market and sector summaries based off of macro- and micro-economic trends. 
+
+<p> 
+  <span style="float:left;font-weight:bold;"> Bloomberg LP </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
+  <span style="float:left;font-weight:bold;"> Bloomberg Market Concepts Course </span> <span style="float:right;font-style:italic;"> Aug 2022 </span> <br>
+</p>
+
+* Completed introductory financial markets course including Economic Indicators, Currencies, Fixed Income, Equities. 
+* Excelled in additional module Equity Options (81%) including a successful trading simulation. 
+
+<p>  
+  <span style="float:left;font-weight:bold;"> Imperial College Investment Society </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Systematic Trading Education Certificate </span> <span style="float:right;font-style:italic;"> Apr – Jun 2022 </span> <br>
+</p>
+
+* Grade: 94.33%. Topped the cohort (300+ Imperial College students all years). Momentum Strategies, ML, NLP 
+* Coded an implementation of the moving average crossover strategy using Kaufman’s Adaptive Moving Average (KAMA) indicator and Inverse Volatility Weighting in Python (available on GitHub)
+
+<p> 
+  <span style="float:left;font-weight:bold;"> Imperial College Data Science Society </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Corporate Relations Officer </span> <span style="float:right;font-style:italic;"> Aug 2022 – Aug 2023 </span> <br>
+</p>
+
+* Elected to manage long-term partnerships of Imperial College’s biggest society in 2022 (1000+ members)
+* Partnerships include Jane Street, J.P. Morgan, Facebook, Shopee, Expedia, BCG, PwC, NHS, Shell and more.
 
 <p> 
   <span style="float:left;font-weight:bold;"> University College London </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
@@ -90,38 +123,6 @@ An enterprising student looking to translate a blend of analytical and interpers
 * Participated in UK’s largest student hackathon, ran for Most Entrepreneurial Hack for Marshall Wace 
 * Built a bot on Cisco’s platform WebEx for event planning written in node.js, using WebEx bot SDK 
 * Provides API server for registering to, creating and listing events, written in Python using Flask 
-
-## Extra-Curricular
-<p> 
-  <span style="float:left;font-weight:bold;"> Imperial College Investment Society </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
-  <span style="float:left;font-weight:bold;"> Senior Analyst, Systematic Division at QT Capital Ltd. </span> <span style="float:right;font-style:italic;"> Oct 2022 – Oct 2023 </span> <br>
-</p>
-
-* Elected to lead a team of 10+ to submit weekly pitches and contribute in management of £7000+ portfolio.
-* Will oversee posting weekly market and sector summaries based off of macro- and micro-economic trends. 
-
-<p>  
-  <span style="float:left;font-weight:bold;"> Systematic Trading Education Certificate </span> <span style="float:right;font-style:italic;"> Apr – Jun 2022 </span> <br>
-</p>
-
-* Grade: 94.33%. Topped the cohort (300+ Imperial College students all years). Momentum Strategies, ML, NLP 
-* Coded an implementation of the moving average crossover strategy using Kaufman’s Adaptive Moving Average (KAMA) indicator and Inverse Volatility Weighting in Python (available on GitHub)
-
-<p> 
-  <span style="float:left;font-weight:bold;"> Imperial College Data Science Society </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
-  <span style="float:left;font-weight:bold;"> Corporate Relations Officer </span> <span style="float:right;font-style:italic;"> Aug 2022 – Aug 2023 </span> <br>
-</p>
-
-* Elected to manage long-term partnerships of Imperial College’s biggest society in 2022 (1000+ members)
-* Partnerships include Jane Street, J.P. Morgan, Facebook, Shopee, Expedia, BCG, PwC, NHS, Shell and more.
-
-<p> 
-  <span style="float:left;font-weight:bold;"> Bloomberg LP </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
-  <span style="float:left;font-weight:bold;"> Bloomberg Market Concepts Course </span> <span style="float:right;font-style:italic;"> Aug 2022 </span> <br>
-</p>
-
-* Completed introductory financial markets course including Economic Indicators, Currencies, Fixed Income, Equities. 
-* Excelled in additional module Equity Options (81%) including a successful trading simulation. 
 
 <p> 
   <span style="float:left;font-weight:bold;"> Imperial Bioscience Review </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
