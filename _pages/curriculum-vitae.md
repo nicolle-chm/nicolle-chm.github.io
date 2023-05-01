@@ -5,7 +5,7 @@ permalink: /curriculum-vitae/
 author_profile: true
 ---
 
-## Professional Profile
+## Professional Profileg
 An enterprising student looking to translate a blend of analytical and interpersonal skills acquired through a technical Engineering degree into using technology to solve business problems within the financial sector. 
 
 ## Education 
