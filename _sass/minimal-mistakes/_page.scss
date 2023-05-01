@@ -88,9 +88,6 @@ body {
 }
 
 .page__content {
-  body {
-      font-size: 50% !important; /* ADJ */
-  }
 	
   h2 {
     padding-bottom: 0.5em;
@@ -118,6 +115,10 @@ body {
   li,
   dl {
     font-size: 1em;
+  }
+  
+  body {
+      font-size: 50% !important; /* ADJ */
   }
 
   /* paragraph indents */
