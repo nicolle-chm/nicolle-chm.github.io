@@ -189,6 +189,6 @@ Grade 44/45 (top 1% worldwide) including Higher Level Mathematics 7/7 with Advan
 ## Skills & Interests  
 **Languages:** English, Italian (Native/Bilingual); Spanish, French (Limited Working Proficiency).  
 **Tech Languages:** Python (Advanced); MATLAB, R, MySQL, TeX, HTML, CSS (Intermediate); C++, JavaScript (Beginner).    
-**Specialist Packages:** NumPy, SciPy, Pandas, Matplotlib, SimpleITK, PyTorch, Keras, Scikit-learn, MONAI (Python).  
+**Specialist Packages:** NumPy, SciPy, Pandas, Matplotlib, Seaborn, SimpleITK, PyTorch, Keras, Scikit-learn, MONAI (Python).  
 **Tools:** Git, GitHub, Visual Studio Code, Microsoft Excel, Microsoft PowerPoint, Microsoft Power BI (Advanced); Tableau (Intermediate).  
 **Interests:** Visual Studio Code Developer with 700+ downloads [(available on GitHub)](https://github.com/martina-torce/vscode-theme-dp).
