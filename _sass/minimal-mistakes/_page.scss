@@ -89,9 +89,10 @@ body {
 }
 
 .page__content {
-  
-  margin: 0;
-  padding: 0;
+  body {
+    margins: 0;
+    padding: 0;
+  }
 	
   /* Adjust font sizes and spacing */
   h2 {
