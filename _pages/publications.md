@@ -1,8 +1,8 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-1. Publication pending
+1. Awaiting publishment
