@@ -144,7 +144,7 @@ An enterprising student looking to translate a blend of analytical and interpers
 * Gained negotiation and professional communication skills by implementing student-faculty points of contact. 
 
 ## Skills & Interests  
-**Languages:** English, Italian (Native/Bilingual); Spanish, French (Limited Working Proficiency).
+**Languages:** English, Italian (Native/Bilingual); Spanish, French (Limited Working Proficiency).  
 **Tech Languages:** Python (Advanced); MATLAB, R, MySQL, TeX, HTML, CSS (Intermediate); C++, JavaScript (Beginner).    
 **Specialist Packages:** NumPy, SciPy, Pandas, Matplotlib, SimpleITK, PyTorch, Keras, Scikit-learn, MONAI (Python).  
 **Tools:** Git, GitHub, Visual Studio Code, Microsoft Excel, Microsoft PowerPoint, Microsoft Power BI (Advanced); Tableau (Intermediate).  
