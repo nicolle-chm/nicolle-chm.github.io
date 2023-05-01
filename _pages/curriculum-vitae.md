@@ -49,84 +49,96 @@ An enterprising student looking to translate a blend of analytical and interpers
 * Received in-depth training sessions from industry leaders in market-making, systems and infrastructures. 
 * Practiced working in a team with different backgrounds (trading and tech) and extracting its full potential. 
 
-**J.P. Morgan Chase  
-Software Engineering Work Experience**  
-*Remote  
-Jun 2020*  
+<p> 
+  <span style="float:left;font-weight:bold;"> J.P. Morgan Chase </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
+  <span style="float:left;font-weight:bold;"> Work Experience, Software Engineering </span> <span style="float:right;font-style:italic;"> Jun 2020 </span> <br>
+</p>
+
 * Improved the user interface of J.P. Morgan Chase’s open-sourced software for traders to visualize the ratio of two stocks against historical correlation with upper and lower thresholds and conduct a successful pairs trading strategy. 
 * Developed a client-side application synced to a server application containing stock price data, conducted unit testing. 
 * Gained experience in Data Analysis and translating algorithms into code in Python.
 
-**KPMG  
-Work Experience, Data Analytics Consulting**  
-*Remote  
-Feb 2022*  
+<p> 
+  <span style="float:left;font-weight:bold;"> KPMG </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
+  <span style="float:left;font-weight:bold;"> Work Experience, Data Analytics Consulting </span> <span style="float:right;font-style:italic;"> Feb 2022 </span> <br>
+</p>
+
 * Helped company to produce better business outcome through optimisation and analysis of customer data.
 * Presented research to Analytics, Information & Modelling team using Microsoft Excel and Power BI for dashboards.
 * Targeted valuable customers based on customer demographics and attributes (Customer Segmentation) 
 
-**University College London  
-Climate Hack.AI Participant**  
-*London, United Kingdom  
-Feb - May 2022*  
+<p> 
+  <span style="float:left;font-weight:bold;"> University College London </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Participant, Climate Hack.AI </span> <span style="float:right;font-style:italic;"> Feb - May 2022 </span> <br>
+</p>
+
 * Developing a satellite imagery prediction algorithm for use in solar photovoltaic output forecasting, aiming to minimise the use of standby gas turbines 
 * Using ConvLSTM approach, TensorFlow, MSE loss 
 
-**Imperial College London  
-IC Hack Participant**  
-*London, United Kingdom  
-Feb 2022*  
+<p> 
+  <span style="float:left;font-weight:bold;"> Imperial College London </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Participant, IC Hack </span> <span style="float:right;font-style:italic;"> Feb 2022 </span> <br>
+</p>
+
 * Participated in UK’s largest student hackathon, ran for Most Entrepreneurial Hack for Marshall Wace 
 * Built a bot on Cisco’s platform WebEx for event planning written in node.js, using WebEx bot SDK 
 * Provides API server for registering to, creating and listing events, written in Python using Flask 
 
 ## Extra-Curricular
-**Imperial College Investment Society  
-Incoming Senior Analyst, Systematic Division at QT Capital Ltd.**  
-*London, United Kingdom  
-Oct 2022 – Oct 2023*  
+<p> 
+  <span style="float:left;font-weight:bold;"> Imperial College Investment Society </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Senior Analyst, Systematic Division at QT Capital Ltd. </span> <span style="float:right;font-style:italic;"> Oct 2022 – Oct 2023 </span> <br>
+</p>
+
 * Elected to lead a team of 10+ to submit weekly pitches and contribute in management of £7000+ portfolio.
 * Will oversee posting weekly market and sector summaries based off of macro- and micro-economic trends. 
 
-**Systematic Trading Education Certificate**  
-*Apr – Jun 2022*  
+<p>  
+  <span style="float:left;font-weight:bold;"> Systematic Trading Education Certificate </span> <span style="float:right;font-style:italic;"> Apr – Jun 2022 </span> <br>
+</p>
+
 * Grade: 94.33%. Topped the cohort (300+ Imperial College students all years). Momentum Strategies, ML, NLP 
 * Coded an implementation of the moving average crossover strategy using Kaufman’s Adaptive Moving Average (KAMA) indicator and Inverse Volatility Weighting in Python (available on GitHub)
 
-**Imperial College Data Science Society  
-Corporate Relations Officer**  
-*London, United Kingdom  
-Aug 2022 – Aug 2023*  
+<p> 
+  <span style="float:left;font-weight:bold;"> Imperial College Data Science Society </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Corporate Relations Officer </span> <span style="float:right;font-style:italic;"> Aug 2022 – Aug 2023 </span> <br>
+</p>
+
 * Elected to manage long-term partnerships of Imperial College’s biggest society in 2022 (1000+ members)
 * Partnerships include Jane Street, J.P. Morgan, Facebook, Shopee, Expedia, BCG, PwC, NHS, Shell and more.
 
-**Bloomberg LP  
-Bloomberg Market Concepts Course**  
-*Remote  
-Aug 2022*  
+<p> 
+  <span style="float:left;font-weight:bold;"> Bloomberg LP </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
+  <span style="float:left;font-weight:bold;"> Bloomberg Market Concepts Course </span> <span style="float:right;font-style:italic;"> Aug 2022 </span> <br>
+</p>
+
 * Completed introductory financial markets course including Economic Indicators, Currencies, Fixed Income, Equities. 
 * Excelled in additional module Equity Options (81%) including a successful trading simulation. 
 
-**Imperial College London  
-Entrepreneurs Society, Marketing Officer**  
-*London, United Kingdom  
-Oct 2021 – Jun 2022*  
+<p> 
+  <span style="float:left;font-weight:bold;"> Imperial Entrepreneurs Society </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Marketing Officer </span> <span style="float:right;font-style:italic;"> Oct 2021 – Jun 2022 </span> <br>
+</p>
+
 * In charge of promoting events from top Tech, FinTech companies to Imperial College students 
 * Worked with companies such as PolyAI, Gingko Bioworks, 11:FS, OakNorth Bank 
 * Increased student engagement by ~65% compared to the previous year 
 
-**Imperial College London  
-Consultancy Society, Corporate Functions, Analytics & Strategy VP**  
-*London, United Kingdom  
-Jun 2021 – Jun 2022*  
+<p> 
+  <span style="float:left;font-weight:bold;"> Imperial College Consultancy Society </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Vice President, Corporate Functions, Analytics & Strategy </span> <span style="float:right;font-style:italic;"> Jun 2021 – Jun 2022 </span> <br>
+</p>
+
 * In charge of communication between sponsoring companies and our ~900 members as well as internal communication within the committee 
 * In charge of gathering analytics after events and performing statistical data analysis on the results 
 * Worked with companies such as Accenture, Oliver Wyman, Oxbow Partners, High Bridge Academy
 
-**Imperial College Union  
-Cohort Academic Representative**  
-*London, United Kingdom  
-Oct 2020 – June 2021*  
+<p> 
+  <span style="float:left;font-weight:bold;"> Imperial College Student Union </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Academic Representative </span> <span style="float:right;font-style:italic;"> Oct 2020 – June 2021 </span> <br>
+</p>
+ 
 * Elected to represent student cohort within the Department of Bioengineering by attending regular meetings. 
 * Resulted in increased cohort satisfaction of 21% according to two anonymous surveys after one school year. 
 * Gained negotiation and professional communication skills by implementing student-faculty points of contact. 
