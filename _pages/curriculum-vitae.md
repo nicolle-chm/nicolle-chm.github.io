@@ -9,10 +9,9 @@ author_profile: true
 An enterprising student looking to translate a blend of analytical and interpersonal skills acquired through a technical Engineering degree into using technology to solve business problems within the financial sector. 
 
 ## Education 
-**Imperial College London  
-Master of Engineering – MEng, Biomolecular Engineering**  
-*London, United Kingdom  
-Oct 2020 – Jun 2024*  
+<div style="text-align:left">**Imperial College London**<\div> <div style="text-align:right">*London, United Kingdom*<\div>    
+Master of Engineering – MEng, Biomolecular Engineering**    
+*Oct 2020 – Jun 2024*  
 * Upper Second Class Hons. including Engineering Mathematics, MATLAB and Python Programming (First Class Hons.).
 
 **St. George’s British International School  
