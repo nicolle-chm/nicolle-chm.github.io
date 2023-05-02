@@ -76,7 +76,8 @@
 .archive__item-excerpt {
   margin-top: 0;
   font-size: 18px; //
-
+  line-height: 1.25; //
+  
   & + p {
     text-indent: 0;
   }
