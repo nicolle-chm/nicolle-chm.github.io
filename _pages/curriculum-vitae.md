@@ -22,7 +22,11 @@ Upper Second Class Hons. including Engineering Mathematics, MATLAB and Python Pr
 </p>
 
 Grade 44/45 (top 1% worldwide) including Higher Level Mathematics 7/7 with Advanced Calculus, Statistics & Probability.  
-<p> <span style="float:left;font-weight:bold;"> International GCSEs </span> <span style="float:right;font-style:italic;"> Oct 2017 - Jun 2018 </span> </p>  
+
+<p> 
+  <span style="float:left;font-weight:bold;"> International GCSEs </span> <span style="float:right;font-style:italic;"> Oct 2017 - Jun 2018 </span> 
+</p>  
+
 7A\*A including Mathematics, Physics & English Language (A\*). Results achieved in one year of study instead of two. 
 
 ## Work Experience 
