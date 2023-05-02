@@ -71,7 +71,7 @@ body {
 .page__title {
   margin-top: 0;
   line-height: 1;
-  font-size: 30px; /* Adj */
+  font-size: $type-size-2; //
 	
   a {
     color: $text-color;
