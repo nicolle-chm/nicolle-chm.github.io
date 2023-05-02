@@ -71,7 +71,7 @@ body {
 .page__title {
   margin-top: 0;
   line-height: 1;
-  font-size: $type-size-2; //
+  font-size: 30px; //
 	
   a {
     color: $text-color;
@@ -91,11 +91,11 @@ body {
 .page__content {
   /* Adjust font sizes and spacing */
   h2 {
-    font-size: $type-size-3;
+    font-size: 24px; //
   }
   
   p, li, dl {
-    font-size: 18px;
+    font-size: 18px; //
     padding: 0;
   }
   /*  */
