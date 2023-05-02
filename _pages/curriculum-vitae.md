@@ -13,7 +13,7 @@ An enterprising student looking to translate a blend of analytical and interpers
   <span style="float:left;font-weight:bold;"> Imperial College London </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
   <span style="float:left;font-weight:bold;"> Master of Engineering – MEng, Biomolecular Engineering </span> <span style="float:right;font-style:italic;"> Oct 2020 – Jun 2024 </span>
 </p>  
-Upper Second Class Hons. including Engineering Mathematics, MATLAB and Python Programming (First Class Hons.).
+Upper Second Class Hons. including Engineering Mathematics, MATLAB and Python Programming (First Class Hons.).  
 
 <p> 
   <span style="float:left;font-weight:bold;"> St. George’s British International School </span> <span style="float:right;font-style:italic;"> Rome, Italy </span> <br>  
