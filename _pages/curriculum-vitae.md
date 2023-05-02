@@ -21,7 +21,7 @@ Upper Second Class Hons. including Engineering Mathematics, MATLAB and Python Pr
   <span style="float:left;font-weight:bold;"> Diploma, International Baccalaureate (IB) </span> <span style="float:right;font-style:italic;"> Oct 2018 – Jun 2020 </span> <br>
 Grade 44/45 (top 1% worldwide) including Higher Level Mathematics 7/7 with Advanced Calculus, Statistics & Probability. <br>
 <span style="float:left;font-weight:bold;"> International GCSEs </span> <span style="float:right;font-style:italic;"> Oct 2017 - Jun 2018 </span> <br>
-7A\*A including Mathematics, Physics & English Language (A\*). Results achieved in one year of study instead of two. 
+7A*A including Mathematics, Physics & English Language (A*). Results achieved in one year of study instead of two. 
 </p>
 
 ## Work Experience 
