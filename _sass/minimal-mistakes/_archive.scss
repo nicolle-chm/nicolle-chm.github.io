@@ -76,6 +76,7 @@
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-5;
+  overflow: visible;
 
   & + p {
     text-indent: 0;
