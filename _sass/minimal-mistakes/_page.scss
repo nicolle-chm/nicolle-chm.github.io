@@ -99,8 +99,18 @@ body {
     padding-top: 0; //
     line-height: 1.25; //
   }
-  /*  */
 	
+  ul li,
+  ol li {
+    margin-bottom: 0; //
+  }
+
+  li ul,
+  li ol {
+    margin-top: 0; //
+  }
+  /*  */
+  
   h2 {
     padding-bottom: 0; //
     border-bottom: 1px solid $border-color;
