@@ -1,6 +1,6 @@
 ---
 title: "Sustainable and Affordable Travel: A Case Study on TravelPay's BNPL Revolution"
-excerpt: "This analysis consists of recommendations for a large company which is experiencing a high turnover rate and is specifically interested in retaining high-performing employees."
+excerpt: "This analysis consists of recommendations for a BNPL startup focused on providing sustainable travel solutions."
 collection: portfolio
 ---
 
