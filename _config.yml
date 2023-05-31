@@ -20,7 +20,7 @@ title                    : "Nicolle Chuquilin"
 title_separator          : "-"
 subtitle                 : "My personal website" # site tagline that appears below site title in masthead
 name                     : "Nicolle Chuquilin"
-description              : "Martina Torcè's personal website."
+description              : "My personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,21 +104,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Martina Torcè"
+  name             : "Nicolle Chuquilin"
   avatar           : "/assets/images/my-photo.jpg"
-  bio              : "Student at Imperial College London"
-  location         : "London, GB & Rome, IT"
-  email            : "martina.torce@gmail.com"
+  bio              : "Master student at WBS"
+  location         : "United Kingdom"
+  email            : "nicolle.chm2@gmail.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://martina-torce.github.io"
+      url: "https://nicolle-chm.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/martina-torce"
+      url: "https://github.com/nicolle-chm"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/martina-torce/"
+      url: "https://www.linkedin.com/in/nicollechuquilin/"
 
 
 # Site Footer
