@@ -6,22 +6,21 @@ author_profile: true
 ---
 
 ## Professional Profile
-An enterprising student looking to translate a blend of analytical and interpersonal skills acquired through a technical Engineering degree into using technology to solve business problems within the financial sector. 
+Capable of creating strategic training plans, improving individuals’ performance, and leveraging internal and external resources. Excellent communicator and colleague with the ability to lead a team. Strong work ethic that can help accomplish tasks and influence colleagues positively for efficient teamwork. Finely tuned analytical skills with extensive experience employing Microsoft Office and programming languages (R and Python)
 
 ## Education 
 <p> 
-  <span style="float:left;font-weight:bold;"> Imperial College London </span> <span style="float:right;font-style:italic;"> London, United Kingdom </span> <br>  
-  <span style="float:left;font-weight:bold;"> Master of Engineering – MEng, Biomolecular Engineering </span> <span style="float:right;font-style:italic;"> Oct 2020 – Jun 2024 </span>
+  <span style="float:left;font-weight:bold;"> Warwick Business School </span> <span style="float:right;font-style:italic;"> Coventry, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Master of Science – MSc, Business Analytics </span> <span style="float:right;font-style:italic;"> Sep 2022 – sep 2023 </span>
 </p>
 
-Upper Second Class Hons. including Engineering Mathematics, MATLAB and Python Programming (First Class Hons.).  
+*Relevant Modules* | 
 
 <p> 
-  <span style="float:left;font-weight:bold;"> St. George’s British International School </span> <span style="float:right;font-style:italic;"> Rome, Italy </span> <br>  
-  <span style="float:left;font-weight:bold;"> Diploma, International Baccalaureate (IB) </span> <span style="float:right;font-style:italic;"> Oct 2018 – Jun 2020 </span> <br>
-Grade 44/45 (top 1% worldwide) including Higher Level Mathematics 7/7 with Advanced Calculus, Statistics & Probability. <br>
-<span style="float:left;font-weight:bold;"> International GCSEs </span> <span style="float:right;font-style:italic;"> Oct 2017 - Jun 2018 </span> <br>
-7A*A including Mathematics, Physics & English Language (A*). Results achieved in one year of study instead of two. 
+  <span style="float:left;font-weight:bold;"> University of Manchester </span> <span style="float:right;font-style:italic;"> Manchester, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> BA(Hons) Economics and Politics </span> <span style="float:right;font-style:italic;"> Sep 2019 – Sep 2022 </span> <br>
+Upper Second Class Hons
+*Relevant Modules* | Advanced Mathematics (83%), Microeconomics 3 (90%), Macroeconomics 4 (85%), Quantitative Methods (70%), Fundamentals of Finance (85%), Advanced Statistics (PRO) <br>
 </p>
 
 ## Work Experience 
