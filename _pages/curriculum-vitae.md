@@ -10,11 +10,16 @@ Capable of creating strategic training plans, improving individuals’ performan
 
 ## Education 
 <p> 
-  <span style="float:left;font-weight:bold;"> Warwick Business School </span> <span style="float:right;font-style:italic;"> Coventry, United Kingdom </span> <br>  
+  <span style="float:left;font-weight:bold;"> Alliance Manchester Business School </span> <span style="float:right;font-style:italic;"> Manchester, United Kingdom </span> <br>  
   <span style="float:left;font-weight:bold;"> Master of Science – MSc, Business Analytics </span> <span style="float:right;font-style:italic;"> Sep 2022 – sep 2023 </span>
+*Relevant Modules* | 
 </p>
 
-*Relevant Modules* | 
+
+<p> 
+  <span style="float:left;font-weight:bold;"> MIT Professional Education </span> <span style="float:right;font-style:italic;"> United States </span> <br>  
+  <span style="float:left;font-weight:bold;"> Data Analytics </span> <span style="float:right;font-style:italic;"> Sep 2022 – sep 2023 </span>
+</p>
 
 <p> 
   <span style="float:left;font-weight:bold;"> University of Manchester </span> <span style="float:right;font-style:italic;"> Manchester, United Kingdom </span> <br>  
