@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 <br>
-I am currently an Masters Student at Warwick Business School, pursuing an MSc in Business Analytics.
+I am currently a Masters's Student at Alliance Manchester Business School (AMBS), pursuing an MSc in Business Analytics.
 
 I am interested in various topics relating to Technology like Artificial Intelligence, Data Science, Big Data, Data Analytics and Blockchain. Additionally, I am interested in how these topics can be applied to the Financial industry, as I have a personal interest with the Financial Markets. In university, I have expressed my interest in these topics through active participation in the committees for societies such as the Investment, Blockchain and Consultancy Society.
 
