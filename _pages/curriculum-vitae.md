@@ -70,7 +70,7 @@ communication, literary and technical skills.
 
 <p> 
   <span style="float:left;font-weight:bold;"> HFC Solution </span> <span style="float:right;font-style:italic;"> Lima, Peru </span> <br>  
-  <span style="float:left;font-weight:bold;"> *Finance Internship* </span> <span style="float:right;font-style:italic;"> Jun 2021 - Nov 2021 </span> 
+  <span style="float:left;font-style:italic;"> *Finance Internship* </span> <span style="float:right;font-style:italic;"> Jun 2021 - Nov 2021 </span> 
 </p>
 
 * Analyzed the income statements and balance sheets and proposed 7 internal changes to make efficiencies in the production costs. 
@@ -81,7 +81,7 @@ communication, literary and technical skills.
 
 <p> 
   <span style="float:left;font-weight:bold;"> MAB Peru </span> <span style="float:right;font-style:italic;"> Lima, Peru </span> <br>  
-  <span style="float:left;font-weight:bold;"> *Tutor of high school and A levels students* </span> <span style="float:right;font-style:italic;"> Jan 2021 – Jun 2021 </span> 
+  <span style="float:left;font-style:italic;"> Tutor of high school and A levels students </span> <span style="float:right;font-style:italic;"> Jan 2021 – Jun 2021 </span> 
 </p>
 
 * Taught monthly: 1 to 3 groups of around 15 to 20 students each and one-to-one students’ mathematics, English and linguistics.
@@ -95,7 +95,7 @@ received positive feedback from the head teacher for my outstanding and detailed
 
 <p> 
   <span style="float:left;font-weight:bold;"> Shalom Catholic Community </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
-  <span style="float:left;font-weight:bold;"> *Volunteer Web Developer* </span> <span style="float:right;font-style:italic;"> Jun 2023 - Present </span>
+  <span style="float:left;font-style:italic;"> Volunteer Web Developer </span> <span style="float:right;font-style:italic;"> Jun 2023 - Present </span>
 </p>
 
 * Currently in the process of creating a functional website to promote Shalom’s activities.
@@ -105,7 +105,7 @@ received positive feedback from the head teacher for my outstanding and detailed
 
 <p> 
   <span style="float:left;font-weight:bold;"> The Northern Consortium (NCUK) </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
-  <span style="float:left;font-weight:bold;"> Student Ambassador  </span> <span style="float:right;font-style:italic;"> Apr 2020 – Present </span>
+  <span style="float:left;font-style:italic;"> Student Ambassador  </span> <span style="float:right;font-style:italic;"> Apr 2020 – Present </span>
 </p>
 
 * Developed interpersonal, communication and customer service skills through the 39 conversations had with prospective students as a representative of
@@ -117,17 +117,17 @@ posts used by the NCUK in their public communications.
 
 
 <p> 
-  <span style="float:left;font-weight:bold;"> Other affiliations: </span>  <br>  
+  <span style="float:left;font-weight:bold;"> Other affiliations: </span> 
 </p>
 *Societies* - Peruvian society, Filipino Society, Enactus. <br>
 *Volunteering experiences* – Holy Name Catholic Church Manchester,  InterCas  Chiclayo, Rotaract Lima, the Lions Club. <br>
 
 ## Certifications
-IBM – Data Analytics with  Python <br>
-Data Camp - Data Analysis in SQL (Using My SQL & PostgreSQL) (+35h) <br>
-Data Camp - Power BI Fundamentals (+15h) <br>
-Bright Network- IT Virtual Internship <br>
-Data Camp - Data Analyst
+IBM – Data Analytics with Python [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/EEA3NEFSVYK6) <br>
+Data Camp - Data Analysis in SQL (Using My SQL & PostgreSQL) (+35h) [(Certificate)](https://www.datacamp.com/statement-of-accomplishment/track/b52ab2494c44a1dfae1f963b250267d7f4e0c78e?raw=1) <br>
+Data Camp - Power BI Fundamentals (+15h)  [(Certificate)](https://www.datacamp.com/statement-of-accomplishment/track/12d8b6f8a31edfd1b90bdf15bfa02c1086f7914f) <br>
+Bright Network- IT Virtual Internship  <br>
+Data Camp - Associate Data Analyst [(Certificate)](https://www.datacamp.com/certificate/DAA0012489053946)
 
 
 
