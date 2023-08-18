@@ -21,10 +21,10 @@ Capable of creating strategic training plans, improving individuals’ performan
 <p> 
   <span style="float:left;font-weight:bold;"> MIT Professional Education </span> <span style="float:right;font-style:italic;"> United States </span> <br>  
   <span style="float:left;font-weight:bold;"> Data Analytics </span> <span style="float:right;font-style:italic;"> Sep 2022 – sep 2023 </span> <br>
-  * Presently belonging to the top 10% of my class.
-  * Completing a 15-week full-time Data Science Bootcamp with a partial scholarship from the MIT PE. 
-  * Build industry-valued skills, knowledge, and business-relevant technologies such as Python, Data Analysis & Visualization, Machine Learning, Time series Analysis, Random Forest, Recommendation Systems and Deep Learning. 
-  * Applied intricate statistical methodologies in real-world scenarios. 
+* Presently belonging to the top 10% of my class. <br>
+  * Completing a 15-week full-time Data Science Bootcamp with a partial scholarship from the MIT PE.  <br>
+  * Build industry-valued skills, knowledge, and business-relevant technologies such as Python, Data Analysis & Visualization, Machine Learning, Time series Analysis, Random Forest, Recommendation Systems and Deep Learning.  <br>
+  * Applied intricate statistical methodologies in real-world scenarios.  <br>
 </p>
 
 <p> 
