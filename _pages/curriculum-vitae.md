@@ -12,9 +12,9 @@ Capable of creating strategic training plans, improving individuals’ performan
 <p> 
   <span style="float:left;font-weight:bold;"> Alliance Manchester Business School </span> <span style="float:right;font-style:italic;"> Manchester, United Kingdom </span> <br>  
   <span style="float:left;font-weight:bold;"> Master of Science – MSc, Business Analytics – 2nd in the UK and 10 in the world ( QS 2022) </span> <span style="float:right;font-style:italic;"> Sep 2023 – sep 2024 </span>
-  <span>
+  <br>
     *Relevant Modules* | 
-  </span>
+  <br>
   * Presently belonging to the top 10% of my class.
   * Completing a 15-week full-time Data Science bootcamp with a partial scholarship from the MIT PE.
   * Build industry-valued skills, knowledge, and business-relevant technologies such as Python, Data Analysis & Visualization, Machine Learning, Time series Analysis, Random Forest, Recommendation Systems and Deep Learning.
