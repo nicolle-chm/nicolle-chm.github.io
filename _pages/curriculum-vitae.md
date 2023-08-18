@@ -14,7 +14,7 @@ Capable of creating strategic training plans, improving individuals’ performan
   <span style="float:left;font-weight:bold;"> Master of Science – MSc, Business Analytics </span> <span style="float:right;font-style:italic;"> Sep 2023 – sep 2024 </span>
   <br>
   2nd in the UK and 10 in the world ( QS 2022) <br>
-  **Relevant Modules** |  <br>
+  **Relevant Modules** |  
 </p>
 
 
