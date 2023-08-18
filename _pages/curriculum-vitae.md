@@ -21,10 +21,13 @@ Capable of creating strategic training plans, improving individuals’ performan
 <p> 
   <span style="float:left;font-weight:bold;"> MIT Professional Education </span> <span style="float:right;font-style:italic;"> United States </span> <br>  
   <span style="float:left;font-weight:bold;"> Data Analytics </span> <span style="float:right;font-style:italic;"> Sep 2022 – sep 2023 </span> <br>
-* Presently belonging to the top 10% of my class. <br>
+  * Presently belonging to the top 10% of my class. <br>
   * Completing a 15-week full-time Data Science Bootcamp with a partial scholarship from the MIT PE.  <br>
   * Build industry-valued skills, knowledge, and business-relevant technologies such as Python, Data Analysis & Visualization, Machine Learning, Time series Analysis, Random Forest, Recommendation Systems and Deep Learning.  <br>
   * Applied intricate statistical methodologies in real-world scenarios.  <br>
+  * Selected within 0.7% out of 1000+ applicants, built an algorithm on Optiver’s own virtual exchange Optibook to trade a dual-listed security using an arbitrage strategy while simultaneously improving market liquidity. 
+* Received in-depth training sessions from industry leaders in market-making, systems and infrastructures. 
+* Practiced working in a team with different backgrounds (trading and tech) and extracting its full potential. 
 </p>
 
 <p> 
