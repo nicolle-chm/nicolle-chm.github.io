@@ -1,6 +1,0 @@
-/* CSS for centering the image and setting its size */
-.facilities img{
-    display: block;
-    margin: 0 auto; /* Center horizontally */
-    max-width: 50%; /* Set maximum width to 50% of the parent container */
-}
