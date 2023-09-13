@@ -5,8 +5,10 @@ permalink: /
 author_profile: true
 ---
 <br>
-I am currently a Masters's Student at Alliance Manchester Business School (AMBS), pursuing an MSc in Business Analytics.
+I'm currently on an exciting academic journey as a Master's student at Alliance Manchester Business School (AMBS), where I'm actively pursuing an MSc in Business Analytics. My academic pursuits have fueled my passion for the dynamic world of technology and data.
 
-I am interested in various topics relating to Technology like Artificial Intelligence, Data Science, Big Data, Data Analytics and Blockchain. Additionally, I am interested in how these topics can be applied to the Financial industry, as I have a personal interest with the Financial Markets. In university, I have expressed my interest in these topics through active participation in the committees for societies such as the Investment, Blockchain and Consultancy Society.
+I have a keen interest in a variety of technology-related domains, including AI, Data Science, Big Data, and Data Analytics. What truly drives me is the process of transforming raw data into actionable insights. I find immense satisfaction in working with data, uncovering hidden patterns, and crafting informative dashboards that tell compelling stories.
 
-Please feel free to connect with me on LinkedIn following the link on the left, and to contact me by email or LinkedIn messages.
+I've had the pleasure of delving deeply into these enthralling subjects in my academic and professional work, developing my abilities, and obtaining practical expertise in data analysis and visualisation. Whether it's employing the strength of machine learning algorithms or delving into the depths of big data, I thrive on the opportunities and challenges that technology and data present.
+
+Please feel free to connect with me on Linkedin using the link on the left, or you can reach out to me via email or LinkedIn messages. 
