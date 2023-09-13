@@ -4,6 +4,16 @@ excerpt: "This analysis consists of recommendations for Food-Hub which is experi
 collection: portfolio
 ---
 
-This analysis consists of recommendations for Food-Hub which is experiencing a high turnover rate and is specifically interested in attracting more customers. The dataset contains restaurant sales, consumer preferences and satisfaction level.
+    <p>
+        This analysis consists of recommendations for Food-Hub which is experiencing a high turnover rate and is specifically interested in attracting more customers. The dataset contains restaurant sales, consumer preferences, and satisfaction levels.
+    </p>
 
-View my analysis: [Available on GitHub](https://github.com/nicolle-chm/KPMG_VirtualInternship)
+    <p>
+        <a href="https://github.com/nicolle-chm/PowerBi_DatabelChurnSet">View my analysis and my PowerBi Dashboard on GitHub</a>
+    </p>
+
+
+    <div style="text-align: center;">
+    <img src="/assets/images/PowerBi_Dashboard.png" alt="Image Alt Text" style="margin: 0 auto; display: block;">
+</div>
+
