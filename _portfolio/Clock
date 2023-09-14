@@ -4,6 +4,23 @@ excerpt: "This analysis consists of recommendations for Food-Hub which is experi
 collection: portfolio
 ---
 
-This analysis consists of recommendations for Food-Hub which is experiencing a high turnover rate and is specifically interested in attracting more customers. The dataset contains restaurant sales, consumer preferences and satisfaction level.
+    <p>
+       In this repository, I've created an interactive Tableau dashboard using the London bike-sharing dataset from Kaggle (available <a href="https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset"  target="_blank">here</a>). The dataset was initially processed in Python to manage the data effectively.  Later, it was imported to Tableau, where I created a dashboard that showcased the moving average of London bike rides and explores the correlation between temperature, wind speed and bike rides. Giving, in this way, an interactive illustration of London Bike's Moving Average
+    </p>
 
-View my analysis: [Available on GitHub](https://github.com/nicolle-chm/KPMG_VirtualInternship)
+    <p>
+    <strong>Tool: Visual Studio Code <br> Tech Languages: HTML, CSS and JavaScript </strong>
+    </p>
+
+
+    <p>
+        <a href="https://nicolle-chm.github.io/Sunset_Clock_Website/" target="_blank">Visit my Sunset theme Clock Website</a>
+      <br> <a href="https://github.com/nicolle-chm/Sunset_Clock_Website" target="_blank">View my HTML, CSS and JavaScript code</a>
+    </p>
+
+<div style="text-align: center;">
+    <a href="https://nicolle-chm.github.io/Sunset_Clock_Website/" target="_blank">
+        <img src="/assets/images/clock.png" alt="Tableau Image" style="margin: 0 auto; display: block;">
+    </a>
+</div>
+
