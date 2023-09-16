@@ -10,4 +10,4 @@ I have a keen interest in a variety of technology-related domains, including AI,
 
 I've had the pleasure of delving deeply into these enthralling subjects in my academic and professional work, developing my abilities, and obtaining practical expertise in data analysis and visualisation. Whether it's employing the strength of machine learning algorithms or delving into the depths of big data, I thrive on the opportunities and challenges that technology and data present.
 
-Please feel free to connect with me on Linkedin using the link on the left, or you can reach out to me via email or LinkedIn messages. 
+Please feel free to **visit my portafolio to view my academic projects**, and to connect with me on Linkedin using the link on the left, or you can reach out to me via email or LinkedIn messages. 
