@@ -127,7 +127,7 @@ IBM – Data Analytics with Python [(Certificate)](https://www.coursera.org/acco
 Data Camp - Data Analysis in SQL (Using My SQL & PostgreSQL) (+35h) [(Certificate)](https://www.datacamp.com/statement-of-accomplishment/track/b52ab2494c44a1dfae1f963b250267d7f4e0c78e?raw=1) <br>
 Data Camp - Power BI Fundamentals (+15h)  [(Certificate)](https://www.datacamp.com/statement-of-accomplishment/track/12d8b6f8a31edfd1b90bdf15bfa02c1086f7914f) <br>
 Bright Network- IT Virtual Internship  <br>
-KPMG Virtual Intership. [(Certificate)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_fHxSfigvAMp3fQ6Kh_1692723648433_completion_certificate.pdf)
+KPMG Virtual Intership. [(Certificate)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_fHxSfigvAMp3fQ6Kh_1692723648433_completion_certificate.pdf) <br>
 Data Camp - Associate Data Analyst [(Certificate)](https://www.datacamp.com/certificate/DAA0012489053946)
 
 
