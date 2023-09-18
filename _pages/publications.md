@@ -7,7 +7,7 @@ author_profile: true
 
 ## Articles/Papers
 
-These works provide an overview of my research in social science data analysis with the use of machine lerning techniques
+These publications offer a comprehensive insight into my research involving the application of machine learning techniques in social science data analysis.
 
 * Awaiting publication
 
