@@ -22,18 +22,17 @@ author_profile: true
   <span style="float:left;font-weight:bold;"> MIT Professional Education </span> <span style="float:right;font-style:italic;"> remote </span> <br>  
   <span style="float:left;font-weight:bold;"> Applied Data Science Bootcamp  </span> <span style="float:right;font-style:italic;"> Jun 2023 – Oct 2023 </span> </p>
   Presently belonging to the top 10% of my class. <br>
-<br>
 
 <p> 
   <span style="float:left;font-weight:bold;"> University of Manchester </span> <span style="float:right;font-style:italic;"> Manchester, United Kingdom </span> <br>  
   <span style="float:left;font-weight:bold;"> BA(Hons) Economics and Politics - *Upper Second Class Honours* </span> <span style="float:right;font-style:italic;"> Sep 2019 – Jul 2022 </span> <br>
-*Relevant Modules* | Advanced Mathematics (83%), Microeconomics 3 (90%), Macroeconomics 4 (85%), Quantitative Methods (70%), Fundamentals of Finance (85%) <br>
+Relevant Modules | Advanced Mathematics (83%), Microeconomics 3 (90%), Macroeconomics 4 (85%), Quantitative Methods (70%), Fundamentals of Finance (85%) <br>
 </p>
 
 <p> 
   <span style="float:left;font-weight:bold;"> The Northern Consortium (NCUK),  </span> <span style="float:right;font-style:italic;"> Lima, Peru </span> <br>  
   <span style="float:left;font-weight:bold;"> International Foundation Year (IFY) in Business Management </span> <span style="float:right;font-style:italic;"> Mar 2018 – Dec 2018 </span> <br>
-*NCUK Modules (A-Levels Equivalent)* | Mathematics (A*), Economics (A), Business (A), EAP (A) <br>
+NCUK Modules (A-Levels Equivalent)* | Mathematics (A*), Economics (A), Business (A), EAP (A) <br>
 </p>
 
 
@@ -48,40 +47,40 @@ author_profile: true
 ## Professional Experience 
 <p> 
   <span style="float:left;font-weight:bold;"> Indiana University </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
-  <span style="float:left;font-weight:bold;"> Research Assistant of Cesar Salinas, Economics PhD Candidate </span> <span style="float:right;font-style:italic;"> Sep 2022 – Mar 2023 </span> </p>
-
+  <span style="float:left;font-style:italic;"> Research Assistant of Cesar Salinas, Economics PhD Candidate </span> <span style="float:right;font-style:italic;"> Sep 2022 – Mar 2023 </span> </p>
+<br>
 <p> 
   <span style="float:left;font-weight:bold;"> HFC Solution </span> <span style="float:right;font-style:italic;"> Lima, Peru </span> <br>  
-  <span style="float:left;font-style:italic;"> *Finance Internship* </span> <span style="float:right;font-style:italic;"> Jun 2021 - Nov 2021 </span> 
+  <span style="float:left;font-style:italic;"> Finance Internship </span> <span style="float:right;font-style:italic;"> Jun 2021 - Nov 2021 </span> 
 </p>
-
+<br>
 <p> 
   <span style="float:left;font-weight:bold;"> MAB Peru </span> <span style="float:right;font-style:italic;"> Lima, Peru </span> <br>  
   <span style="float:left;font-style:italic;"> Tutor of high school and A levels students </span> <span style="float:right;font-style:italic;"> Jan 2021 – Jun 2021 </span> 
 </p>
-
+<br>
 ## Extra-curricular
 <p> 
   <span style="float:left;font-weight:bold;"> 180 Degrees Consulting </span> <span style="float:right;font-style:italic;"> Manchester </span> <br>  
   <span style="float:left;font-style:italic;"> Consultant </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span>
-</p>
+</p><br>
 <p> 
   <span style="float:left;font-weight:bold;"> Alliance Manchester Business School </span> <span style="float:right;font-style:italic;"> Manchester </span> <br>  
   <span style="float:left;font-style:italic;"> Student Representative </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span>
-</p>
+</p><br>
 <p> 
   <span style="float:left;font-weight:bold;"> Peruvian Society </span> <span style="float:right;font-style:italic;"> Manchester </span> <br>  
   <span style="float:left;font-style:italic;"> Events and Social Media Officer </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span>
-</p>
+</p><br>
 <p> 
   <span style="float:left;font-weight:bold;"> Shalom Catholic Community </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
   <span style="float:left;font-style:italic;"> Volunteer Web Developer </span> <span style="float:right;font-style:italic;"> Jun 2023 - Sep 2023 </span>
-</p>
+</p><br>
 
 <p> 
   <span style="float:left;font-weight:bold;"> The Northern Consortium (NCUK) </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
   <span style="float:left;font-style:italic;"> Student Ambassador  </span> <span style="float:right;font-style:italic;"> Apr 2020 – Sep 2023 </span>
-</p>
+</p><br>
 
 <p> 
   <span style="float:left;font-weight:bold;"> Other affiliations: </span> 
