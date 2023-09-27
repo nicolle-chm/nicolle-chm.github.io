@@ -21,8 +21,8 @@ author_profile: true
 <p> 
   <span style="float:left;font-weight:bold;"> MIT Professional Education </span> <span style="float:right;font-style:italic;"> remote </span> <br>  
   <span style="float:left;font-weight:bold;"> Applied Data Science Bootcamp  </span> <span style="float:right;font-style:italic;"> Jun 2023 – Oct 2023 </span> </p>
-  * Presently belonging to the top 10% of my class. <br>
-
+  Presently belonging to the top 10% of my class. <br>
+<br>
 
 <p> 
   <span style="float:left;font-weight:bold;"> University of Manchester </span> <span style="float:right;font-style:italic;"> Manchester, United Kingdom </span> <br>  
