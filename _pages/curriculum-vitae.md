@@ -47,44 +47,44 @@ NCUK Modules (A-Levels Equivalent)* | Mathematics (A*), Economics (A), Business 
 ## Professional Experience 
 <p> 
   <span style="float:left;font-weight:bold;"> Indiana University </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
-  <span style="float:left;font-style:italic;"> Research Assistant of Cesar Salinas, Economics PhD Candidate </span> <span style="float:right;font-style:italic;"> Sep 2022 – Mar 2023 </span> </p>
-<br>
+  <span style="float:left;font-style:italic;"> Research Assistant of Cesar Salinas, Economics PhD Candidate </span> <span style="float:right;font-style:italic;"> Sep 2022 – Mar 2023 </span> <br> </p>
+
 <p> 
   <span style="float:left;font-weight:bold;"> HFC Solution </span> <span style="float:right;font-style:italic;"> Lima, Peru </span> <br>  
-  <span style="float:left;font-style:italic;"> Finance Internship </span> <span style="float:right;font-style:italic;"> Jun 2021 - Nov 2021 </span> 
+  <span style="float:left;font-style:italic;"> Finance Internship </span> <span style="float:right;font-style:italic;"> Jun 2021 - Nov 2021 </span> <br>
 </p>
-<br>
+
 <p> 
   <span style="float:left;font-weight:bold;"> MAB Peru </span> <span style="float:right;font-style:italic;"> Lima, Peru </span> <br>  
-  <span style="float:left;font-style:italic;"> Tutor of high school and A levels students </span> <span style="float:right;font-style:italic;"> Jan 2021 – Jun 2021 </span> 
+  <span style="float:left;font-style:italic;"> Tutor of high school and A levels students </span> <span style="float:right;font-style:italic;"> Jan 2021 – Jun 2021 </span> <br>
 </p>
-<br>
+
 ## Extra-curricular
 <p> 
   <span style="float:left;font-weight:bold;"> 180 Degrees Consulting </span> <span style="float:right;font-style:italic;"> Manchester </span> <br>  
-  <span style="float:left;font-style:italic;"> Consultant </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span>
-</p><br>
+  <span style="float:left;font-style:italic;"> Consultant </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span> <br>
+</p>
 <p> 
   <span style="float:left;font-weight:bold;"> Alliance Manchester Business School </span> <span style="float:right;font-style:italic;"> Manchester </span> <br>  
-  <span style="float:left;font-style:italic;"> Student Representative </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span>
+  <span style="float:left;font-style:italic;"> Student Representative </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span> <br>
 </p><br>
 <p> 
   <span style="float:left;font-weight:bold;"> Peruvian Society </span> <span style="float:right;font-style:italic;"> Manchester </span> <br>  
-  <span style="float:left;font-style:italic;"> Events and Social Media Officer </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span>
-</p><br>
+  <span style="float:left;font-style:italic;"> Events and Social Media Officer </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span> <br>
+</p>
 <p> 
   <span style="float:left;font-weight:bold;"> Shalom Catholic Community </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
-  <span style="float:left;font-style:italic;"> Volunteer Web Developer </span> <span style="float:right;font-style:italic;"> Jun 2023 - Sep 2023 </span>
-</p><br>
+  <span style="float:left;font-style:italic;"> Volunteer Web Developer </span> <span style="float:right;font-style:italic;"> Jun 2023 - Sep 2023 </span> <br>
+</p>
 
 <p> 
   <span style="float:left;font-weight:bold;"> The Northern Consortium (NCUK) </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
-  <span style="float:left;font-style:italic;"> Student Ambassador  </span> <span style="float:right;font-style:italic;"> Apr 2020 – Sep 2023 </span>
-</p><br>
+  <span style="float:left;font-style:italic;"> Student Ambassador  </span> <span style="float:right;font-style:italic;"> Apr 2020 – Sep 2023 </span> <br>
+</p>
 
 <p> 
-  <span style="float:left;font-weight:bold;"> Other affiliations: </span> 
-</p>
+  <span style="float:left;font-weight:bold;"> Other affiliations: </span> <br>
+</p> 
 *Societies* - Enactus, Management Society, Woman in Business Society, MUTIS, Economics Society. <br>
 *Volunteering experiences* – Holy Name Catholic Church Manchester,  InterCas  Chiclayo, Rotaract Lima, the Lions Club. <br>
 
