@@ -67,7 +67,7 @@ NCUK Modules (A-Levels Equivalent)* | Mathematics (A*), Economics (A), Business 
 <p> 
   <span style="float:left;font-weight:bold;"> Alliance Manchester Business School </span> <span style="float:right;font-style:italic;"> Manchester </span> <br>  
   <span style="float:left;font-style:italic;"> Student Representative </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span> <br>
-</p><br>
+</p>
 <p> 
   <span style="float:left;font-weight:bold;"> Peruvian Society </span> <span style="float:right;font-style:italic;"> Manchester </span> <br>  
   <span style="float:left;font-style:italic;"> Events and Social Media Officer </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span> <br>
