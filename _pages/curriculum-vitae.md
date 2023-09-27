@@ -59,7 +59,7 @@ NCUK Modules (A-Levels Equivalent) | Mathematics (A*), Economics (A), Business (
   <span style="float:left;font-style:italic;"> Tutor of high school and A levels students </span> <span style="float:right;font-style:italic;"> Jan 2021 – Jun 2021 </span> <br>
 </p>
 
-## Extra-curricular
+## Leadership & Affiliations
 <p> 
   <span style="float:left;font-weight:bold;"> 180 Degrees Consulting </span> <span style="float:right;font-style:italic;"> Manchester </span> <br>  
   <span style="float:left;font-style:italic;"> Consultant </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span> <br>
