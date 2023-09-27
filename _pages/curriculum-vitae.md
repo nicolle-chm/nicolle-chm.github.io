@@ -32,7 +32,7 @@ Relevant Modules | Advanced Mathematics (83%), Microeconomics 3 (90%), Macroecon
 <p> 
   <span style="float:left;font-weight:bold;"> The Northern Consortium (NCUK),  </span> <span style="float:right;font-style:italic;"> Lima, Peru </span> <br>  
   <span style="float:left;font-weight:bold;"> International Foundation Year (IFY) in Business Management </span> <span style="float:right;font-style:italic;"> Mar 2018 – Dec 2018 </span> <br>
-NCUK Modules (A-Levels Equivalent)* | Mathematics (A*), Economics (A), Business (A), EAP (A) <br>
+NCUK Modules (A-Levels Equivalent) | Mathematics (A*), Economics (A), Business (A), EAP (A) <br>
 </p>
 
 
