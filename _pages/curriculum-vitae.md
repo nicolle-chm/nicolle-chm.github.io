@@ -95,4 +95,5 @@ IBM – Data Analytics with Python [(Certificate)](https://www.coursera.org/acco
 Data Camp - Data Analysis in SQL (Using My SQL & PostgreSQL) (+35h) [(Certificate)](https://www.datacamp.com/statement-of-accomplishment/track/b52ab2494c44a1dfae1f963b250267d7f4e0c78e?raw=1) <br>
 Data Camp - Power BI Fundamentals (+15h)  [(Certificate)](https://www.datacamp.com/statement-of-accomplishment/track/12d8b6f8a31edfd1b90bdf15bfa02c1086f7914f) <br>
 Data Camp - Associate Data Analyst [(Certificate)](https://www.datacamp.com/certificate/DAA0012489053946) <br>
-University of Manchester – Bicentenary Social Impact – Nominated, Stellify Award – On track.
+University of Manchester – Bicentenary Social Impact – Nominated.
+University of Manchester – Stellify Award – On track.
