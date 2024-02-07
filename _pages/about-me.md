@@ -4,10 +4,12 @@ title: "About me"
 permalink: /
 author_profile: true
 ---
-I'm currently on an exciting academic journey as a Master's student at Alliance Manchester Business School (AMBS), where I'm actively pursuing an MSc in Business Analytics. My academic pursuits have fueled my passion for the dynamic world of technology and data.
+I'm currently a Master's student at Alliance Manchester Business School (AMBS), where I'm pursuing an MSc in Business Analytics. My academic and professional journeys have encouraged my passion for the world of finance, technology and data.
 
-I have a keen interest in a variety of technology-related domains, including AI, Data Science, Big Data, and Data Analytics. What truly drives me is the process of transforming raw data into actionable insights. I find immense satisfaction in working with data, uncovering hidden patterns, and crafting informative dashboards that tell compelling stories.
+I am interested in various technology-related topics, including Fintech, AI, Data Science, Big Data, and Data Analytics. I enjoy developing forecasting models and find the challenge of combining transfer learning and machine learning models exciting.
 
-I've had the pleasure of delving deeply into these enthralling subjects in my academic and professional work, developing my abilities, and obtaining practical expertise in data analysis and visualisation. Whether it's employing the strength of machine learning algorithms or delving into the depths of big data, I thrive on the opportunities and challenges that technology and data present.
+I am strongly grounded in mathematics, statistics, and finance, with the diverse university-level modules I have undertaken in my undergraduate and master's degrees. In these, I have been developing my skills and knowledge in data science and Fintech.
+
+At university, I serve as a consultant at 180DC, a Student Ambassador of UoM, a Student Representative of my cohort, and the Head of Events Officer for the Peruvian Society, where I lead teams, coordinate events and collaborate with university staff, corporate clients and fellow students.
 
 Please feel free to **visit my portafolio to view my academic projects**, and to connect with me on Linkedin using the link on the left, or you can reach out to me via email or LinkedIn messages. 
