@@ -37,15 +37,15 @@ NCUK Modules (A-Levels Equivalent) | Mathematics (A*), Economics (A), Business (
 
 
 ## Skills & Interests  
-**Tech Languages:** Python, R (Advanced); SQL, HTML , CSS (Intermediate); JavaScript, PHP, SAS (Beginner). <br>
-**Specialist Packages:** NumPy, SciPy, Pandas, Matplotlib, Seaborn, SimpleITK, Scikit-learn, NetworkX. <br>
-**Tools:** Git, GitHub, R Studio, MySQL Anaconda, Visual Studio Code, Microsoft Excel, Microsoft PowerPoint, Microsoft Power BI, Tableau. <br>
+**Tech Languages:** Python (Advanced); R, SQL, HTML , CSS (Intermediate); JavaScript, PHP, SAS (Beginner). <br>
+**Specialist Packages:** NumPy, SciPy, Pandas, Matplotlib, Seaborn, SimpleITK, Scikit-learn, Statsmodels <br>
+**Tools:** Power BI, Tableau, Microsoft Excel, PowerPoint, GitHub, Visual Studio Code, R Studio, MySQL, Anaconda. <br>
 **Interests:** Poetry book writer of Love Kaleidoscope available on Amazon KDP. [(See Ebook)](https://www.amazon.co.uk/Love-Kaleidoscope-artistic-journey-sprectrum-ebook/dp/B0CDSW7L31/ref=sr_1_1?crid=3KJ0CE38ZV3IG&keywords=love+kaleidoscope&qid=1692387005&s=digital-text&sprefix=%2Cdigital-text%2C93&sr=1-1) <br>
-**Languages:** English (Advanced), Spanish (Native), and Portuguese (Limited Working Proficiency).
+**Languages:** English (Fluent), Spanish (Native), and Portuguese (Limited Working Proficiency).
 
 
 ## Professional Experience 
-<p> 
+<p>     
   <span style="float:left;font-weight:bold;"> Indiana University </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
   <span style="float:left;font-style:italic;"> Research Assistant of Cesar Salinas, Economics PhD Candidate </span> <span style="float:right;font-style:italic;"> Sep 2022 – Mar 2023 </span> <br> </p>
 
@@ -61,12 +61,16 @@ NCUK Modules (A-Levels Equivalent) | Mathematics (A*), Economics (A), Business (
 
 ## Leadership & Affiliations
 <p> 
+  <span style="float:left;font-weight:bold;"> MUTIS Ethical Investment Fund </span> <span style="float:right;font-style:italic;"> Manchester </span> <br>  
+  <span style="float:left;font-style:italic;"> Quantitative Trading Analyst </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span> <br>
+</p>
+<p> 
   <span style="float:left;font-weight:bold;"> 180 Degrees Consulting </span> <span style="float:right;font-style:italic;"> Manchester </span> <br>  
   <span style="float:left;font-style:italic;"> Consultant </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span> <br>
 </p>
 <p> 
   <span style="float:left;font-weight:bold;"> Alliance Manchester Business School </span> <span style="float:right;font-style:italic;"> Manchester </span> <br>  
-  <span style="float:left;font-style:italic;"> Student Representative </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span> <br>
+  <span style="float:left;font-style:italic;"> Student Representative & Student Ambassador [(Runner-up for Student Rep of the Month))](https://www.linkedin.com/feed/update/urn:li:activity:7143630462526058497/) </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span> <br>
 </p>
 <p> 
   <span style="float:left;font-weight:bold;"> Peruvian Society </span> <span style="float:right;font-style:italic;"> Manchester </span> <br>  
@@ -85,7 +89,7 @@ NCUK Modules (A-Levels Equivalent) | Mathematics (A*), Economics (A), Business (
 <p> 
   <span style="float:left;font-weight:bold;"> Other affiliations: </span> <br>
 </p> 
-*Societies* - Enactus, Management Society, Woman in Business Society, MUTIS, Economics Society. <br>
+*Societies* - Enactus, Management Society, Woman in Business Society, Economics Society. <br>
 *Volunteering experiences* – Holy Name Catholic Church Manchester,  InterCas  Chiclayo, Rotaract Lima, the Lions Club. <br>
 
 ## Certifications
