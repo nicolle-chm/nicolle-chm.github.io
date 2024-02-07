@@ -70,11 +70,11 @@ NCUK Modules (A-Levels Equivalent) | Mathematics (A*), Economics (A), Business (
 </p>
 <p> 
   <span style="float:left;font-weight:bold;"> Alliance Manchester Business School </span> <span style="float:right;font-style:italic;"> Manchester </span> <br>  
-  <span style="float:left;font-style:italic;"> Student Representative & Student Ambassador [(Runner-up for Student Rep of the Month)](https://www.linkedin.com/feed/update/urn:li:activity:7143630462526058497/) </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span> <br>
+  <span style="float:left;font-style:italic;"> Student Representative & Student Ambassador </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span> <br>
 </p>
 <p> 
   <span style="float:left;font-weight:bold;"> Peruvian Society </span> <span style="float:right;font-style:italic;"> Manchester </span> <br>  
-  <span style="float:left;font-style:italic;"> Events and Social Media Officer </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span> <br>
+  <span style="float:left;font-style:italic;"> Head of Events Officer </span> <span style="float:right;font-style:italic;"> Sep 2023 - Present </span> <br>
 </p>
 <p> 
   <span style="float:left;font-weight:bold;"> Shalom Catholic Community </span> <span style="float:right;font-style:italic;"> Remote </span> <br>  
