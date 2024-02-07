@@ -25,7 +25,7 @@ author_profile: true
 
 <p> 
   <span style="float:left;font-weight:bold;"> University of Manchester </span> <span style="float:right;font-style:italic;"> Manchester, United Kingdom </span> <br>  
-  <span style="float:left;font-weight:bold;"> BA(Hons) Economics and Politics - *Upper Second Class Honours* </span> <span style="float:right;font-style:italic;"> Sep 2019 – Jul 2022 </span> <br>
+  <span style="float:left;font-weight:bold;"> BA(Hons) Economics and Politics - Upper Second Class Honours </span> <span style="float:right;font-style:italic;"> Sep 2019 – Jul 2022 </span> <br>
 Relevant Modules | Advanced Mathematics (83%), Microeconomics 3 (90%), Macroeconomics 4 (85%), Quantitative Methods (70%), Fundamentals of Finance (85%) <br>
 </p>
 
